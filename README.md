@@ -1,6 +1,6 @@
 # Projetos de Python
 
-Este repositório contém alguns projetos simples em Python, como uma calculadora, um gerador de senhas, uma calculadora científica e um jogo da velha. Os projetos têm como objetivo demonstrar a prática de conceitos básicos de programação.
+Este repositório contém alguns projetos simples em Python, como uma calculadora, um gerador de senhas, uma calculadora científica, um jogo da velha e um conversor de moeda. Os projetos têm como objetivo demonstrar a prática de conceitos básicos de programação.
 
 ## Projetos
 
@@ -28,6 +28,12 @@ O **jogo da velha** é um jogo de tabuleiro entre dois jogadores, onde eles alte
 
 - Localização: `jogo_da_velha/jogo_da_velha.py`
 
+### 5. Conversor de Moeda
+
+O **conversor de moeda** converte valores entre as moedas BRL (Real Brasileiro), USD (Dólar Americano) e EUR (Euro).
+
+- Localização: `conversor_moeda/conversor.py`
+
 ## Como rodar os projetos
 
 Para rodar os projetos, basta ter o Python instalado na sua máquina. Navegue até a pasta correspondente e execute o arquivo Python desejado:
@@ -44,3 +50,6 @@ python calculadora_cientifica/calc_cientifica.py
 
 # Para o jogo da velha
 python jogo_da_velha/jogo_da_velha.py
+
+# Para o conversor de moeda
+python conversor_moeda/conversor.py
