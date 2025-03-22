@@ -1,0 +1,14 @@
+# Ignorar o arquivo guia.txt
+guia.txt
+
+# Ignorar a pasta guiasecretos/
+guiasecretos/
+
+# Ignorar todos os arquivos .txt
+*.txt
+
+# Ignorar todos os arquivos de log
+*.log
+
+# Ignorar a pasta node_modules/
+node_modules/
