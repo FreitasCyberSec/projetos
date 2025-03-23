@@ -56,7 +56,7 @@ Caso deseje contribuir com melhorias nos projetos ou na estrutura do repositóri
 
 ## 📞 Contato
 
-Se tiver dúvidas ou sugestões, entre em contato através do [GitHub](https://github.com/seu-usuario) ou [LinkedIn](https://linkedin.com/in/seu-perfil).
+Se tiver dúvidas ou sugestões, entre em contato através do [GitHub](https) ou [LinkedIn](https://www.linkedin.com/in/humberto-freitas-a0ba95274/).
 
 ---
 
