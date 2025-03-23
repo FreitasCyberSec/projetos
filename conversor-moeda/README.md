@@ -67,7 +67,7 @@ Este projeto está licenciado sob a **MIT License** - Consulte o arquivo `LICENS
 
 ## 🧑‍💻 Autor
 
-- **Seu Nome** - [LinkedIn](https://www.linkedin.com/in/humberto-freitas-a0ba95274/) | [GitHub](https://github.com/seu-usuario)
+- **Seu Nome** - [LinkedIn](https://www.linkedin.com/in/humberto-freitas-a0ba95274/) | [GitHub](https://github.com/FreitasCyberSec)
 
 ---
 
