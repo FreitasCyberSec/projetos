@@ -25,7 +25,7 @@ gerador-senhas/
 
 ### Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/gerador-senhas.git
+git clone https://github.com/FreitasCyberSec/gerador-senhas.git
 cd gerador-senhas
 ```
 
