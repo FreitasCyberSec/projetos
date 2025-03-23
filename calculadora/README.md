@@ -55,7 +55,7 @@ python calc.py
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a **MIT License** - Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a **MIT License** - Consulte o arquivo `https://github.com/FreitasCyberSec/projetos/blob/master/calculadora/LICENSE` para mais detalhes.
 
 ## 🧑‍💻 Autor
 
