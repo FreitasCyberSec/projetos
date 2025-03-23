@@ -24,7 +24,7 @@ calculadora/
 
 ### Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/calculadora.git
+git clone https://github.com/FreitasCyberSec/calculadora.git
 cd calculadora
 ```
 
